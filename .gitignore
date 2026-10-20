@@ -1,0 +1,6 @@
+# MATLAB generated files
+**/results/
+*.asv
+*.autosave
+*.m~
+
